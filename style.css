@@ -41,7 +41,7 @@ img{
   text-align: center;
   line-height: 1.3em;
 }
-  @media (max-width: 375x) {
+  @media (max-width: 375px) {
   body{
     background-color: hsl(212, 45%, 89%);
     width:375px;
