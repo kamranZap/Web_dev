@@ -43,7 +43,7 @@ img{
   text-align: center;
   line-height: 1.3em;
 }
-   /* @media (max-width: 375px) {
+    @media (max-width: 375px) {
   body{
     background-color: hsl(212, 45%, 89%);
      width:375px;
@@ -52,10 +52,10 @@ img{
   }
   .bottomlayer{
     background-color: hsl(0, 0%, 100%);
-    width: 320px; */
+    width: 320px; 
     /* margin-left: 27.5px;
     margin-top: 10%; */
-    /* margin: auto;
+     margin: auto;
     padding-top: 15px;
     padding-bottom: 30px;
     border-radius: 15px;
@@ -86,4 +86,4 @@ img{
     text-align: center;
     line-height: 1.3em;
   }
-}  */
+} 
